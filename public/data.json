@@ -1,0 +1,1122 @@
+[
+  {
+    "playerName": "Rafiu Ahmed",
+    "playerimg": "/players/rafiu-ahmed.png",
+    "department": "CSE",
+    "type": "Wicketkeeper",
+    "rating": 58,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Tanvir Sarker",
+    "playerimg": "/players/tanvir-sarker.png",
+    "department": "EEE",
+    "type": "Wicketkeeper",
+    "rating": 44,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Mahin Islam",
+    "playerimg": "/players/mahin-islam.png",
+    "department": "BBA",
+    "type": "Batter",
+    "rating": 61,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Nabil Hasan",
+    "playerimg": "/players/nabil-hasan.png",
+    "department": "English",
+    "type": "Batter",
+    "rating": 39,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Sajid Karim",
+    "playerimg": "/players/sajid-karim.png",
+    "department": "Pharmacy",
+    "type": "All-rounder",
+    "rating": 67,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Fahim Reza",
+    "playerimg": "/players/fahim-reza.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 52,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Arif Hossain",
+    "playerimg": "/players/arif-hossain.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 64,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Priyo Chowdhury",
+    "playerimg": "/players/priyo-chowdhury.png",
+    "department": "Architecture",
+    "type": "All-rounder",
+    "rating": 45,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Sadia Islam",
+    "playerimg": "/players/sadia-islam.png",
+    "department": "CSE",
+    "type": "Bowler",
+    "rating": 54,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Rezaul Karim",
+    "playerimg": "/players/rezaul-karim.png",
+    "department": "EEE",
+    "type": "Bowler",
+    "rating": 57,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Omar Ali",
+    "playerimg": "/players/omar-ali.png",
+    "department": "BBA",
+    "type": "Batter",
+    "rating": 51,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Imran Hossain",
+    "playerimg": "/players/imran-hossain.png",
+    "department": "English",
+    "type": "Bowler",
+    "rating": 63,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Nayeem Hasan",
+    "playerimg": "/players/nayeem-hasan.png",
+    "department": "Pharmacy",
+    "type": "All-rounder",
+    "rating": 62,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Shakil Ahmed",
+    "playerimg": "/players/shakil-ahmed.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 55,
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Mahir Rahman",
+    "playerimg": "/players/mahir-rahman.png",
+    "department": "Co-E",
+    "type": "All-rounder",
+    "rating": 57,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Raihan Kabir",
+    "playerimg": "/players/raihan-kabir.png",
+    "department": "Architecture",
+    "type": "Batter",
+    "rating": 47,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Fardin Islam",
+    "playerimg": "/players/fardin-islam.png",
+    "department": "CSE",
+    "type": "All-rounder",
+    "rating": 65,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Hasibul Hasan",
+    "playerimg": "/players/hasibul-hasan.png",
+    "department": "EEE",
+    "type": "Bowler",
+    "rating": 50,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Arafat Khan",
+    "playerimg": "/players/arafat-khan.png",
+    "department": "BBA",
+    "type": "Batter",
+    "rating": 56,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Shadman Islam",
+    "playerimg": "/players/shadman-islam.png",
+    "department": "English",
+    "type": "All-rounder",
+    "rating": 62,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Tawhid Ahmed",
+    "playerimg": "/players/tawhid-ahmed.png",
+    "department": "Pharmacy",
+    "type": "All-rounder",
+    "rating": 60,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Muntasir Rahman",
+    "playerimg": "/players/muntasir-rahman.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 45,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Araf Rahman",
+    "playerimg": "/players/araf-rahman.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 55,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Jarin Haque",
+    "playerimg": "/players/jarin-haque.png",
+    "department": "Architecture",
+    "type": "Wicketkeeper",
+    "rating": 46,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Shuvo Ahmed",
+    "playerimg": "/players/shuvo-ahmed.png",
+    "department": "CSE",
+    "type": "Batter",
+    "rating": 66,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Adnan Karim",
+    "playerimg": "/players/adnan-karim.png",
+    "department": "EEE",
+    "type": "Batter",
+    "rating": 58,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Sakib Ahmed",
+    "playerimg": "/players/sakib-ahmed.png",
+    "department": "BBA",
+    "type": "Wicketkeeper",
+    "rating": 53,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Rafiul Hasan",
+    "playerimg": "/players/rafiul-hasan.png",
+    "department": "English",
+    "type": "Batter",
+    "rating": 49,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Mahiul Islam",
+    "playerimg": "/players/mahiul-islam.png",
+    "department": "Pharmacy",
+    "type": "Bowler",
+    "rating": 56,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Rifat Chowdhury",
+    "playerimg": "/players/rifat-chowdhury.png",
+    "department": "IPE",
+    "type": "All-rounder",
+    "rating": 61,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Kawsar Ahmed",
+    "playerimg": "/players/kawsar-ahmed.png",
+    "department": "Co-E",
+    "type": "Bowler",
+    "rating": 48,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Noman Hasan",
+    "playerimg": "/players/noman-hasan.png",
+    "department": "Architecture",
+    "type": "All-rounder",
+    "rating": 58,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Jahid Hasan",
+    "playerimg": "/players/jahid-hasan.png",
+    "department": "CSE",
+    "type": "Batter",
+    "rating": 68,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 10
+  },
+  {
+    "playerName": "Sakib Khan",
+    "playerimg": "/players/sakib-khan.png",
+    "department": "EEE",
+    "type": "All-rounder",
+    "rating": 64,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Foysal Ahmed",
+    "playerimg": "/players/foysal-ahmed.png",
+    "department": "BBA",
+    "type": "All-rounder",
+    "rating": 63,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Rakibul Islam",
+    "playerimg": "/players/rakibul-islam.png",
+    "department": "English",
+    "type": "Wicketkeeper",
+    "rating": 59,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Mehedi Hasan",
+    "playerimg": "/players/mehedi-hasan.png",
+    "department": "Pharmacy",
+    "type": "All-rounder",
+    "rating": 59,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Sohanur Rahman",
+    "playerimg": "/players/sohanur-rahman.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 61,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Tanjim Hasan",
+    "playerimg": "/players/tanjim-hasan.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 54,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Nadim Ahmed",
+    "playerimg": "/players/nadim-ahmed.png",
+    "department": "Architecture",
+    "type": "Bowler",
+    "rating": 52,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Imtiaz Rahman",
+    "playerimg": "/players/imtiaz-rahman.png",
+    "department": "CSE",
+    "type": "Bowler",
+    "rating": 60,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Rahat Ahmed",
+    "playerimg": "/players/rahat-ahmed.png",
+    "department": "EEE",
+    "type": "Batter",
+    "rating": 46,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Shafin Ahmed",
+    "playerimg": "/players/shafin-ahmed.png",
+    "department": "BBA",
+    "type": "Batter",
+    "rating": 62,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Raihan Ahmed",
+    "playerimg": "/players/raihan-ahmed.png",
+    "department": "English",
+    "type": "All-rounder",
+    "rating": 56,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Mahfuz Hasan",
+    "playerimg": "/players/mahfuz-hasan.png",
+    "department": "Pharmacy",
+    "type": "Wicketkeeper",
+    "rating": 49,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Shakil Reza",
+    "playerimg": "/players/shakil-reza.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 65,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Moinul Islam",
+    "playerimg": "/players/moinul-islam.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 53,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Sajjad Hossain",
+    "playerimg": "/players/sajjad-hossain.png",
+    "department": "Architecture",
+    "type": "Batter",
+    "rating": 55,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Ahsan Habib",
+    "playerimg": "/players/ahsan-habib.png",
+    "department": "CSE",
+    "type": "All-rounder",
+    "rating": 66,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Tareq Islam",
+    "playerimg": "/players/tareq-islam.png",
+    "department": "EEE",
+    "type": "All-rounder",
+    "rating": 55,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Rony Ahmed",
+    "playerimg": "/players/rony-ahmed.png",
+    "department": "BBA",
+    "type": "Wicketkeeper",
+    "rating": 50,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Adib Rahman",
+    "playerimg": "/players/adib-rahman.png",
+    "department": "English",
+    "type": "Batter",
+    "rating": 66,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Rasel Hossain",
+    "playerimg": "/players/rasel-hossain.png",
+    "department": "Pharmacy",
+    "type": "Bowler",
+    "rating": 53,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Tawfiq Hasan",
+    "playerimg": "/players/tawfiq-hasan.png",
+    "department": "IPE",
+    "type": "All-rounder",
+    "rating": 58,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Arman Kabir",
+    "playerimg": "/players/arman-kabir.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 58,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Fahad Karim",
+    "playerimg": "/players/fahad-karim.png",
+    "department": "Architecture",
+    "type": "All-rounder",
+    "rating": 64,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Sabbir Rahman",
+    "playerimg": "/players/sabbir-rahman.png",
+    "department": "CSE",
+    "type": "Bowler",
+    "rating": 62,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Mushfiq Rahman",
+    "playerimg": "/players/mushfiq-rahman.png",
+    "department": "EEE",
+    "type": "Bowler",
+    "rating": 59,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Rashed Ahmed",
+    "playerimg": "/players/rashed-ahmed.png",
+    "department": "BBA",
+    "type": "Batter",
+    "rating": 60,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Fardin Hossain",
+    "playerimg": "/players/fardin-hossain.png",
+    "department": "English",
+    "type": "Bowler",
+    "rating": 56,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Naim Hasan",
+    "playerimg": "/players/naim-hasan.png",
+    "department": "Pharmacy",
+    "type": "Batter",
+    "rating": 52,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Mizanur Rahman",
+    "playerimg": "/players/mizanur-rahman.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 57,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Kawsar Islam",
+    "playerimg": "/players/kawsar-islam.png",
+    "department": "Co-E",
+    "type": "Bowler",
+    "rating": 46,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Aminul Hasan",
+    "playerimg": "/players/aminul-hasan.png",
+    "department": "Architecture",
+    "type": "Batter",
+    "rating": 57,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Nafis Ahmed",
+    "playerimg": "/players/nafis-ahmed.png",
+    "department": "CSE",
+    "type": "All-rounder",
+    "rating": 67,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Aminul Islam",
+    "playerimg": "/players/aminul-islam.png",
+    "department": "EEE",
+    "type": "Bowler",
+    "rating": 62,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Fahad Rahman",
+    "playerimg": "/players/fahad-rahman.png",
+    "department": "BBA",
+    "type": "Bowler",
+    "rating": 47,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Sohan Ahmed",
+    "playerimg": "/players/sohan-ahmed.png",
+    "department": "English",
+    "type": "Bowler",
+    "rating": 64,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Mahadi Hasan",
+    "playerimg": "/players/mahadi-hasan.png",
+    "department": "Pharmacy",
+    "type": "All-rounder",
+    "rating": 61,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Rakin Islam",
+    "playerimg": "/players/rakin-islam.png",
+    "department": "IPE",
+    "type": "All-rounder",
+    "rating": 58,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Jubayer Hasan",
+    "playerimg": "/players/jubayer-hasan.png",
+    "department": "Co-E",
+    "type": "Wicketkeeper",
+    "rating": 47,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Noman Hossain",
+    "playerimg": "/players/noman-hossain.png",
+    "department": "Architecture",
+    "type": "Bowler",
+    "rating": 53,
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Shahriar Ahmed",
+    "playerimg": "/players/shahriar-ahmed.png",
+    "department": "CSE",
+    "type": "Batter",
+    "rating": 63,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Asif Mahmud",
+    "playerimg": "/players/asif-mahmud.png",
+    "department": "EEE",
+    "type": "Bowler",
+    "rating": 51,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Ayon Chowdhury",
+    "playerimg": "/players/ayon-chowdhury.png",
+    "department": "BBA",
+    "type": "All-rounder",
+    "rating": 66,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Siam Hossain",
+    "playerimg": "/players/siam-hossain.png",
+    "department": "English",
+    "type": "Batter",
+    "rating": 52,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Tanim Rahman",
+    "playerimg": "/players/tanim-rahman.png",
+    "department": "Pharmacy",
+    "type": "Batter",
+    "rating": 55,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Shafin Rahman",
+    "playerimg": "/players/shafin-rahman.png",
+    "department": "IPE",
+    "type": "All-rounder",
+    "rating": 59,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Riad Hasan",
+    "playerimg": "/players/riad-hasan.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 50,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Tareq Ahmed",
+    "playerimg": "/players/tareq-ahmed.png",
+    "department": "Architecture",
+    "type": "Wicketkeeper",
+    "rating": 48,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Mahir Ahmed",
+    "playerimg": "/players/mahir-ahmed.png",
+    "department": "CSE",
+    "type": "Batter",
+    "rating": 69,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 10
+  },
+  {
+    "playerName": "Rasel Mia",
+    "playerimg": "/players/rasel-mia.png",
+    "department": "EEE",
+    "type": "Batter",
+    "rating": 46,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Rifat Hasan",
+    "playerimg": "/players/rifat-hasan.png",
+    "department": "BBA",
+    "type": "Bowler",
+    "rating": 54,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Tuhin Hasan",
+    "playerimg": "/players/tuhin-hasan.png",
+    "department": "English",
+    "type": "All-rounder",
+    "rating": 59,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Saad Ahmed",
+    "playerimg": "/players/saad-ahmed.png",
+    "department": "Pharmacy",
+    "type": "Wicketkeeper",
+    "rating": 52,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Fardin Ahmed",
+    "playerimg": "/players/fardin-ahmed.png",
+    "department": "IPE",
+    "type": "Bowler",
+    "rating": 67,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9.5
+  },
+  {
+    "playerName": "Ruman Islam",
+    "playerimg": "/players/ruman-islam.png",
+    "department": "Co-E",
+    "type": "Bowler",
+    "rating": 49,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Abir Hasan",
+    "playerimg": "/players/abir-hasan.png",
+    "department": "Architecture",
+    "type": "Wicketkeeper",
+    "rating": 55,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Sabbir Ahmed",
+    "playerimg": "/players/sabbir-ahmed.png",
+    "department": "CSE",
+    "type": "Batter",
+    "rating": 58,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Tasin Ahmed",
+    "playerimg": "/players/tasin-ahmed.png",
+    "department": "EEE",
+    "type": "Batter",
+    "rating": 54,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Nafiz Karim",
+    "playerimg": "/players/nafiz-karim.png",
+    "department": "BBA",
+    "type": "Batter",
+    "rating": 51,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Farhan Rahman",
+    "playerimg": "/players/farhan-rahman.png",
+    "department": "English",
+    "type": "Batter",
+    "rating": 56,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Samiul Hasan",
+    "playerimg": "/players/samiul-hasan.png",
+    "department": "Pharmacy",
+    "type": "Bowler",
+    "rating": 58,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Rakin Ahmed",
+    "playerimg": "/players/rakin-ahmed.png",
+    "department": "IPE",
+    "type": "All-rounder",
+    "rating": 63,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Moin Ahmed",
+    "playerimg": "/players/moin-ahmed.png",
+    "department": "Co-E",
+    "type": "Batter",
+    "rating": 47,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 7
+  },
+  {
+    "playerName": "Rahatul Islam",
+    "playerimg": "/players/rahatul-islam.png",
+    "department": "Architecture",
+    "type": "Bowler",
+    "rating": 51,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Sajjad Karim",
+    "playerimg": "/players/sajjad-karim.png",
+    "department": "CSE",
+    "type": "All-rounder",
+    "rating": 60,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Nayeem Islam",
+    "playerimg": "/players/nayeem-islam.png",
+    "department": "EEE",
+    "type": "Batter",
+    "rating": 49,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Fahim Ahmed",
+    "playerimg": "/players/fahim-ahmed.png",
+    "department": "BBA",
+    "type": "All-rounder",
+    "rating": 61,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Aminul Rahman",
+    "playerimg": "/players/aminul-rahman.png",
+    "department": "English",
+    "type": "Bowler",
+    "rating": 53,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Shahadat Hossain",
+    "playerimg": "/players/shahadat-hossain.png",
+    "department": "Pharmacy",
+    "type": "All-rounder",
+    "rating": 57,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Tawhid Rahman",
+    "playerimg": "/players/tawhid-rahman.png",
+    "department": "IPE",
+    "type": "Batter",
+    "rating": 55,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Hasan Mahmud",
+    "playerimg": "/players/hasan-mahmud.png",
+    "department": "Co-E",
+    "type": "Bowler",
+    "rating": 63,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Raihan Hossain",
+    "playerimg": "/players/raihan-hossain.png",
+    "department": "Architecture",
+    "type": "All-rounder",
+    "rating": 56,
+    "bowlingStyle": "Left-arm medium",
+    "battingStyle": "Left-hand",
+    "price": 8
+  },
+  {
+    "playerName": "Faisal Ahmed",
+    "playerimg": "/players/faisal-ahmed.png",
+    "department": "CSE",
+    "type": "Bowler",
+    "rating": 58,
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Shafin Islam",
+    "playerimg": "/players/shafin-islam.png",
+    "department": "EEE",
+    "type": "All-rounder",
+    "rating": 59,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Right-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Adib Hasan",
+    "playerimg": "/players/adib-hasan.png",
+    "department": "BBA",
+    "type": "Wicketkeeper",
+    "rating": 48,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Nabil Rahman",
+    "playerimg": "/players/nabil-rahman.png",
+    "department": "English",
+    "type": "Batter",
+    "rating": 60,
+    "bowlingStyle": "Right-arm off-spin",
+    "battingStyle": "Left-hand",
+    "price": 8.5
+  },
+  {
+    "playerName": "Siam Ahmed",
+    "playerimg": "/players/siam-ahmed.png",
+    "department": "Pharmacy",
+    "type": "Bowler",
+    "rating": 52,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Rasel Ahmed",
+    "playerimg": "/players/rasel-ahmed.png",
+    "department": "IPE",
+    "type": "All-rounder",
+    "rating": 62,
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-hand",
+    "price": 9
+  },
+  {
+    "playerName": "Siam Rahman",
+    "playerimg": "/players/siam-rahman.png",
+    "department": "Co-E",
+    "type": "Bowler",
+    "rating": 50,
+    "bowlingStyle": "Left-arm spin",
+    "battingStyle": "Right-hand",
+    "price": 7.5
+  },
+  {
+    "playerName": "Fahad Hasan",
+    "playerimg": "/players/fahad-hasan.png",
+    "department": "Architecture",
+    "type": "Batter",
+    "rating": 53,
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-hand",
+    "price": 8
+  }
+]
