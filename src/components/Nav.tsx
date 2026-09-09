@@ -1,3 +1,4 @@
+import { BsCoin } from "react-icons/bs";
 import logo from "../assets/logo.png";
 
 const Nav = () => {
@@ -11,7 +12,8 @@ const Nav = () => {
                 <li>Fixture</li>
                 <li>Create-Team</li>
                 <li>Schedule</li>
-                <li>Coin</li>
+                <button className="btn btn-dash btn-info text-white font-bold"><li><span className="mr-2">0</span>Coin </li><BsCoin /></button>
+                
             </ul>
         </div>
         </nav>

@@ -7,7 +7,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Tanvir Sarker",
@@ -17,7 +17,7 @@
     "rating": 44,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Mahin Islam",
@@ -27,7 +27,7 @@
     "rating": 61,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Nabil Hasan",
@@ -37,7 +37,7 @@
     "rating": 39,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Sajid Karim",
@@ -47,7 +47,7 @@
     "rating": 67,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Fahim Reza",
@@ -57,7 +57,7 @@
     "rating": 52,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Arif Hossain",
@@ -67,7 +67,7 @@
     "rating": 64,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Priyo Chowdhury",
@@ -77,7 +77,7 @@
     "rating": 45,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Sadia Islam",
@@ -87,7 +87,7 @@
     "rating": 54,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Rezaul Karim",
@@ -97,7 +97,7 @@
     "rating": 57,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Omar Ali",
@@ -107,7 +107,7 @@
     "rating": 51,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Imran Hossain",
@@ -117,7 +117,7 @@
     "rating": 63,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Nayeem Hasan",
@@ -127,7 +127,7 @@
     "rating": 62,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Shakil Ahmed",
@@ -137,7 +137,7 @@
     "rating": 55,
     "bowlingStyle": "Left-arm fast",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Mahir Rahman",
@@ -147,7 +147,7 @@
     "rating": 57,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Raihan Kabir",
@@ -157,7 +157,7 @@
     "rating": 47,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Fardin Islam",
@@ -167,7 +167,7 @@
     "rating": 65,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Hasibul Hasan",
@@ -177,7 +177,7 @@
     "rating": 50,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Arafat Khan",
@@ -187,7 +187,7 @@
     "rating": 56,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Shadman Islam",
@@ -197,7 +197,7 @@
     "rating": 62,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Tawhid Ahmed",
@@ -207,7 +207,7 @@
     "rating": 60,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Muntasir Rahman",
@@ -217,7 +217,7 @@
     "rating": 45,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Araf Rahman",
@@ -227,7 +227,7 @@
     "rating": 55,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Jarin Haque",
@@ -237,7 +237,7 @@
     "rating": 46,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Shuvo Ahmed",
@@ -247,7 +247,7 @@
     "rating": 66,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Adnan Karim",
@@ -257,7 +257,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Sakib Ahmed",
@@ -267,7 +267,7 @@
     "rating": 53,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Rafiul Hasan",
@@ -277,7 +277,7 @@
     "rating": 49,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Mahiul Islam",
@@ -287,7 +287,7 @@
     "rating": 56,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Rifat Chowdhury",
@@ -297,7 +297,7 @@
     "rating": 61,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Kawsar Ahmed",
@@ -307,7 +307,7 @@
     "rating": 48,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Noman Hasan",
@@ -317,7 +317,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Jahid Hasan",
@@ -327,7 +327,7 @@
     "rating": 68,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 10
+    "price": 10000
   },
   {
     "playerName": "Sakib Khan",
@@ -337,7 +337,7 @@
     "rating": 64,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Foysal Ahmed",
@@ -347,7 +347,7 @@
     "rating": 63,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Rakibul Islam",
@@ -357,7 +357,7 @@
     "rating": 59,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Mehedi Hasan",
@@ -367,7 +367,7 @@
     "rating": 59,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Sohanur Rahman",
@@ -377,7 +377,7 @@
     "rating": 61,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Tanjim Hasan",
@@ -387,7 +387,7 @@
     "rating": 54,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Nadim Ahmed",
@@ -397,7 +397,7 @@
     "rating": 52,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Imtiaz Rahman",
@@ -407,7 +407,7 @@
     "rating": 60,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Rahat Ahmed",
@@ -417,7 +417,7 @@
     "rating": 46,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Shafin Ahmed",
@@ -427,7 +427,7 @@
     "rating": 62,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Raihan Ahmed",
@@ -437,7 +437,7 @@
     "rating": 56,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Mahfuz Hasan",
@@ -447,7 +447,7 @@
     "rating": 49,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Shakil Reza",
@@ -457,7 +457,7 @@
     "rating": 65,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Moinul Islam",
@@ -467,7 +467,7 @@
     "rating": 53,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Sajjad Hossain",
@@ -477,7 +477,7 @@
     "rating": 55,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Ahsan Habib",
@@ -487,7 +487,7 @@
     "rating": 66,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Tareq Islam",
@@ -497,7 +497,7 @@
     "rating": 55,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Rony Ahmed",
@@ -507,7 +507,7 @@
     "rating": 50,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Adib Rahman",
@@ -517,7 +517,7 @@
     "rating": 66,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Rasel Hossain",
@@ -527,7 +527,7 @@
     "rating": 53,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Tawfiq Hasan",
@@ -537,7 +537,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Arman Kabir",
@@ -547,7 +547,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Fahad Karim",
@@ -557,7 +557,7 @@
     "rating": 64,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Sabbir Rahman",
@@ -567,7 +567,7 @@
     "rating": 62,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Mushfiq Rahman",
@@ -577,7 +577,7 @@
     "rating": 59,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Rashed Ahmed",
@@ -587,7 +587,7 @@
     "rating": 60,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Fardin Hossain",
@@ -597,7 +597,7 @@
     "rating": 56,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Naim Hasan",
@@ -607,7 +607,7 @@
     "rating": 52,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Mizanur Rahman",
@@ -617,7 +617,7 @@
     "rating": 57,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Kawsar Islam",
@@ -627,7 +627,7 @@
     "rating": 46,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Aminul Hasan",
@@ -637,7 +637,7 @@
     "rating": 57,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Nafis Ahmed",
@@ -647,7 +647,7 @@
     "rating": 67,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Aminul Islam",
@@ -657,7 +657,7 @@
     "rating": 62,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Fahad Rahman",
@@ -667,7 +667,7 @@
     "rating": 47,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Sohan Ahmed",
@@ -677,7 +677,7 @@
     "rating": 64,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Mahadi Hasan",
@@ -687,7 +687,7 @@
     "rating": 61,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Rakin Islam",
@@ -697,7 +697,7 @@
     "rating": 58,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Jubayer Hasan",
@@ -707,7 +707,7 @@
     "rating": 47,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Noman Hossain",
@@ -717,7 +717,7 @@
     "rating": 53,
     "bowlingStyle": "Left-arm fast",
     "battingStyle": "Left-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Shahriar Ahmed",
@@ -727,7 +727,7 @@
     "rating": 63,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Asif Mahmud",
@@ -737,7 +737,7 @@
     "rating": 51,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Left-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Ayon Chowdhury",
@@ -747,7 +747,7 @@
     "rating": 66,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Siam Hossain",
@@ -757,7 +757,7 @@
     "rating": 52,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Tanim Rahman",
@@ -767,7 +767,7 @@
     "rating": 55,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Shafin Rahman",
@@ -777,7 +777,7 @@
     "rating": 59,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Riad Hasan",
@@ -787,7 +787,7 @@
     "rating": 50,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Tareq Ahmed",
@@ -797,7 +797,7 @@
     "rating": 48,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Mahir Ahmed",
@@ -807,7 +807,7 @@
     "rating": 69,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 10
+    "price": 10000
   },
   {
     "playerName": "Rasel Mia",
@@ -817,7 +817,7 @@
     "rating": 46,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Rifat Hasan",
@@ -827,7 +827,7 @@
     "rating": 54,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Tuhin Hasan",
@@ -837,7 +837,7 @@
     "rating": 59,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Saad Ahmed",
@@ -847,7 +847,7 @@
     "rating": 52,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Fardin Ahmed",
@@ -857,7 +857,7 @@
     "rating": 67,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9.5
+    "price": 8500
   },
   {
     "playerName": "Ruman Islam",
@@ -867,7 +867,7 @@
     "rating": 49,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Abir Hasan",
@@ -877,7 +877,7 @@
     "rating": 55,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Sabbir Ahmed",
@@ -887,7 +887,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Tasin Ahmed",
@@ -897,7 +897,7 @@
     "rating": 54,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Nafiz Karim",
@@ -907,7 +907,7 @@
     "rating": 51,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Farhan Rahman",
@@ -917,7 +917,7 @@
     "rating": 56,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Samiul Hasan",
@@ -927,7 +927,7 @@
     "rating": 58,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Rakin Ahmed",
@@ -937,7 +937,7 @@
     "rating": 63,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Moin Ahmed",
@@ -947,7 +947,7 @@
     "rating": 47,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Left-hand",
-    "price": 7
+    "price": 1000
   },
   {
     "playerName": "Rahatul Islam",
@@ -957,7 +957,7 @@
     "rating": 51,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Sajjad Karim",
@@ -967,7 +967,7 @@
     "rating": 60,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Nayeem Islam",
@@ -977,7 +977,7 @@
     "rating": 49,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Fahim Ahmed",
@@ -987,7 +987,7 @@
     "rating": 61,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Aminul Rahman",
@@ -997,7 +997,7 @@
     "rating": 53,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Left-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Shahadat Hossain",
@@ -1007,7 +1007,7 @@
     "rating": 57,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Tawhid Rahman",
@@ -1017,7 +1017,7 @@
     "rating": 55,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Hasan Mahmud",
@@ -1027,7 +1027,7 @@
     "rating": 63,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Raihan Hossain",
@@ -1037,7 +1037,7 @@
     "rating": 56,
     "bowlingStyle": "Left-arm medium",
     "battingStyle": "Left-hand",
-    "price": 8
+    "price": 4000
   },
   {
     "playerName": "Faisal Ahmed",
@@ -1047,7 +1047,7 @@
     "rating": 58,
     "bowlingStyle": "Left-arm fast",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Shafin Islam",
@@ -1057,7 +1057,7 @@
     "rating": 59,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Right-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Adib Hasan",
@@ -1067,7 +1067,7 @@
     "rating": 48,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Nabil Rahman",
@@ -1077,7 +1077,7 @@
     "rating": 60,
     "bowlingStyle": "Right-arm off-spin",
     "battingStyle": "Left-hand",
-    "price": 8.5
+    "price": 5500
   },
   {
     "playerName": "Siam Ahmed",
@@ -1087,7 +1087,7 @@
     "rating": 52,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Rasel Ahmed",
@@ -1097,7 +1097,7 @@
     "rating": 62,
     "bowlingStyle": "Right-arm fast",
     "battingStyle": "Right-hand",
-    "price": 9
+    "price": 7000
   },
   {
     "playerName": "Siam Rahman",
@@ -1107,7 +1107,7 @@
     "rating": 50,
     "bowlingStyle": "Left-arm spin",
     "battingStyle": "Right-hand",
-    "price": 7.5
+    "price": 2500
   },
   {
     "playerName": "Fahad Hasan",
@@ -1117,6 +1117,6 @@
     "rating": 53,
     "bowlingStyle": "Right-arm medium",
     "battingStyle": "Right-hand",
-    "price": 8
+    "price": 4000
   }
 ]
