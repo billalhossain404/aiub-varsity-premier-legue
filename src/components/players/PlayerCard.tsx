@@ -1,6 +1,8 @@
 import { SlUser, SlBadge, SlSpeedometer, SlTag } from "react-icons/sl";
 import type { Iplayer } from "../types/Type";
 import playerImg from "../../assets/player.JPG";
+import { useState, type Dispatch, type SetStateAction } from "react";
+import { toast } from "react-toastify";
 
 const roleAccent: Record<string, string> = {
   Batter: "text-amber-400 border-amber-400/30 bg-amber-400/10",
@@ -9,11 +11,32 @@ const roleAccent: Record<string, string> = {
   Wicketkeeper: "text-violet-400 border-violet-400/30 bg-violet-400/10",
 };
 
-const PlayerCard = ({ player }: { player: Iplayer }) => {
+interface IAvailabeProps {
+  player:Iplayer;
+  coin : number;
+  setCoin: Dispatch<SetStateAction<number>>;
+}
+
+const PlayerCard = ({ player, coin, setCoin }: IAvailabeProps) => {
   const ratingPct = Math.min(100, Math.round((player.rating / 70) * 100));
   const accent =
     roleAccent[player.type] ??
     "text-slate-300 border-slate-400/30 bg-slate-400/10";
+
+    const handleSelectPlayer = () =>{
+          setIsSelected(true);
+
+          const newPrice = coin - player.price;
+          if(newPrice>0){
+            setCoin(newPrice)
+            toast.success(`${player.playerName} is Purchased Successfully`)
+          }
+          else{
+            toast.error("Insouciant Balance")
+          }
+    }
+
+    const [isSelected, setIsSelected] = useState(false)
 
   return (
     <div className="group w-full max-w-sm overflow-hidden rounded-2xl border border-cyan-300/10 bg-gradient-to-b from-[#0C2D6B] to-[#081E4D] shadow-lg shadow-blue-950/50 transition-transform duration-300 hover:-translate-y-1 hover:shadow-cyan-900/30">
@@ -94,8 +117,13 @@ const PlayerCard = ({ player }: { player: Iplayer }) => {
               ${player.price.toLocaleString()}
             </span>
           </div>
-          <button className="rounded-lg bg-cyan-400 px-4 py-2 text-sm font-semibold text-[#081E4D] transition-colors hover:bg-cyan-300">
-            Choose player
+          <button
+            type="button"
+            onClick={handleSelectPlayer }
+            disabled={isSelected}
+            className="rounded-lg bg-cyan-400 px-4 py-2 text-sm font-semibold text-[#081E4D] transition-colors hover:bg-cyan-300 disabled:cursor-not-allowed disabled:bg-slate-400 disabled:opacity-60 disabled:hover:bg-slate-400"
+          >
+            {isSelected ?  "Selected" : "Choose player"}
           </button>
         </div>
       </div>

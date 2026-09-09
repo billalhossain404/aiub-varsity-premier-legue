@@ -1,13 +1,15 @@
-import { use, useState } from "react";
+import { use, useState, type Dispatch, type SetStateAction } from "react";
 import type { Iplayer } from "../types/Type";
 import AvailablePlayers from "./AvailablePlayers";
 import SelectedPlayer from "./SelectedPlayer";
 
 interface PlayerProps {
   playerPromise: Promise<Iplayer[]>;
+  coin : number;
+  setCoin: Dispatch<SetStateAction<number>>;
 }
 
-const Players = ({ playerPromise }: PlayerProps) => {
+const Players = ({ playerPromise, coin, setCoin }: PlayerProps) => {
   const players = use(playerPromise)
 
   const [buttonType, setButton] = useState("available");
@@ -17,7 +19,7 @@ const Players = ({ playerPromise }: PlayerProps) => {
     <div className="max-w-7xl mx-auto">
 
         <div className="flex justify-between gap-4 mt-5 mb-5">
-            <h2 className="font-bold text-xl">Availabe Players</h2>
+            <h2 className="font-bold text-xl">{buttonType === "available"  ? "Availabe Players" : "Selected Players"}</h2>
             <div>
                 <button  onClick={() => setButton("available")}
                 className={ `${buttonType === "available" ? "btn-warning" : ""} btn  rounded-r-none`}>Available</button>
@@ -26,7 +28,7 @@ const Players = ({ playerPromise }: PlayerProps) => {
             </div>
         </div>
 
-      {buttonType == "available" ? <AvailablePlayers player={players} /> : (<SelectedPlayer/>)}
+      {buttonType == "available" ? <AvailablePlayers player={players} coin= {coin} setCoin = {setCoin}/> : (<SelectedPlayer/>)}
     </div>
   );
 };

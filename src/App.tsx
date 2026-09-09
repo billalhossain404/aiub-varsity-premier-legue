@@ -1,4 +1,4 @@
-import { Suspense } from "react";
+import { Suspense, useState } from "react";
 import Banner from "./components/Banner";
 import Nav from "./components/Nav";
 import Players from "./components/players/Players";
@@ -12,9 +12,10 @@ const playerFetch = async (): Promise<Iplayer[]> => {
 
 function App() {
   const playerPromise = playerFetch();
+  const [coin, setCoin] = useState(7000);
   return (
     <>
-      <Nav />
+      <Nav coin = {coin}/>
       <Banner />
       <Suspense
         fallback={
@@ -23,7 +24,7 @@ function App() {
           </div>
         }
       >
-        <Players playerPromise={playerPromise} />
+        <Players playerPromise={playerPromise} coin={coin} setCoin = {setCoin} />
       </Suspense>
     </>
   );
